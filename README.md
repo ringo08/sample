@@ -4,4 +4,4 @@ update
 track
 update on new-feature branch
 update on conflict branch
-update on Git hub
+update on conflict-remote for conflict
